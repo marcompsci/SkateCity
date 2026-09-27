@@ -6,10 +6,11 @@ import simd
 
 // MARK: - Quality tiers
 
-enum GraphicsQuality: String {
-    case low    = "Low"
-    case high   = "High"
-    case ultra  = "Ultra"
+enum GraphicsQuality: String, CaseIterable, Identifiable {
+    case low     = "Low"
+    case high    = "High"
+    case ultra   = "Ultra"
+    var id: String { rawValue }
 }
 
 // MARK: - Time-of-day presets
