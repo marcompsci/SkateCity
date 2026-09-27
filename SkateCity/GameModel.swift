@@ -1,5 +1,7 @@
 //  GameModel.swift
 //  Shared game state for SwiftUI screens + HUD. The 3D engine writes into this.
+// Copyright © 2026 MAR / SkateCity. All rights reserved.
+// Unauthorized reproduction, distribution, or modification is strictly prohibited.
 
 import SwiftUI
 import Combine

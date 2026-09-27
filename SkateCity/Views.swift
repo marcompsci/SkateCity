@@ -1,5 +1,7 @@
 //  Views.swift
 //  SwiftUI screens: title/menu, loading, in-game HUD + touch controls, results.
+// Copyright © 2026 MAR / SkateCity. All rights reserved.
+// Unauthorized reproduction, distribution, or modification is strictly prohibited.
 
 import SwiftUI
 import SceneKit

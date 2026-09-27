@@ -4,6 +4,8 @@
 //
 //  Physics is arcade-style (like THPS): a raycast "ground follower" that rides any surface,
 //  launches off lips/copings, vert-assist on quarter pipes, and snap-to-rail grinding.
+// Copyright © 2026 MAR / SkateCity. All rights reserved.
+// Unauthorized reproduction, distribution, or modification is strictly prohibited.
 
 import SceneKit
 import ModelIO

@@ -4,6 +4,8 @@
 //
 //  Created by Omari Bell on 9/23/26.
 //
+// Copyright © 2026 MAR / SkateCity. All rights reserved.
+// Unauthorized reproduction, distribution, or modification is strictly prohibited.
 
 import RealityKit
 

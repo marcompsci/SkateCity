@@ -1,5 +1,7 @@
 //  Tricks.swift
 //  Trick definitions (flips, grabs, grinds), combo scoring and small math helpers.
+// Copyright © 2026 MAR / SkateCity. All rights reserved.
+// Unauthorized reproduction, distribution, or modification is strictly prohibited.
 
 import simd
 

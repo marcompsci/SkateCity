@@ -1,3 +1,6 @@
+// Copyright © 2026 MAR / SkateCity. All rights reserved.
+// Unauthorized reproduction, distribution, or modification is strictly prohibited.
+
 import SceneKit
 
 /// Procedural geometry builder for the Bay Area skatepark level.

@@ -2,6 +2,8 @@
 //  Procedurally generated PBR texture sets (albedo + roughness + normal [+ emission]).
 //  No image assets needed to run — swap in photoscanned textures later for even more realism
 //  (see README: Poly Haven / ambientCG CC0 textures drop straight into `TextureCache`).
+// Copyright © 2026 MAR / SkateCity. All rights reserved.
+// Unauthorized reproduction, distribution, or modification is strictly prohibited.
 
 import UIKit
 import SceneKit

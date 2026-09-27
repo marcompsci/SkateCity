@@ -1,6 +1,8 @@
 //  MeshBuilder.swift
 //  Builds custom SceneKit geometry (boxes, kicker wedges, curved quarter pipes)
 //  with world-scale UVs (1 UV unit = 1 metre) so textures never stretch.
+// Copyright © 2026 MAR / SkateCity. All rights reserved.
+// Unauthorized reproduction, distribution, or modification is strictly prohibited.
 
 import SceneKit
 import simd

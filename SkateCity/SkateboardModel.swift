@@ -1,3 +1,6 @@
+// Copyright © 2026 MAR / SkateCity. All rights reserved.
+// Unauthorized reproduction, distribution, or modification is strictly prohibited.
+
 #if os(iOS)
 import SceneKit
 import UIKit

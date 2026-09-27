@@ -4,6 +4,8 @@
 //  Controller:  Left stick = steer/spin   A = Ollie (hold to crouch, release to pop)
 //               X = Flip   Y = Grab   B = Grind   R1 = Manual
 //  Keyboard:    WASD / arrows = steer   Space = Ollie   J = Flip   K = Grab   L = Grind   I = Manual
+// Copyright © 2026 MAR / SkateCity. All rights reserved.
+// Unauthorized reproduction, distribution, or modification is strictly prohibited.
 
 import GameController
 import QuartzCore

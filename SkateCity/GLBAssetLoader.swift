@@ -1,3 +1,6 @@
+// Copyright © 2026 MAR / SkateCity. All rights reserved.
+// Unauthorized reproduction, distribution, or modification is strictly prohibited.
+
 import SceneKit
 
 /// Loads .glb (glTF 2.0 binary) assets via SCNScene and vends cloned SCNNodes.

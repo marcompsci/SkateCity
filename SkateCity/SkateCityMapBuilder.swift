@@ -1,3 +1,6 @@
+// Copyright © 2026 MAR / SkateCity. All rights reserved.
+// Unauthorized reproduction, distribution, or modification is strictly prohibited.
+
 import SceneKit
 
 /// Constructs the full SkateCity world into an SCNScene.

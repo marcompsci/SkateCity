@@ -2,6 +2,8 @@
 //  Builds "SkateCity Plaza": a downtown skate plaza (kickers, funbox, ledges, rails, stair set,
 //  quarter pipes, manual pad) surrounded by a live city — road with traffic, sidewalks with
 //  pedestrians, streetlights, trees and a skyline of lit buildings at golden hour.
+// Copyright © 2026 MAR / SkateCity. All rights reserved.
+// Unauthorized reproduction, distribution, or modification is strictly prohibited.
 
 import SceneKit
 import UIKit

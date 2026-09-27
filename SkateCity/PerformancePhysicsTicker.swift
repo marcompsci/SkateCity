@@ -1,3 +1,6 @@
+// Copyright © 2026 MAR / SkateCity. All rights reserved.
+// Unauthorized reproduction, distribution, or modification is strictly prohibited.
+
 import SceneKit
 
 /// Throttles expensive raycasts to 60 Hz while the render loop runs at 120 FPS.

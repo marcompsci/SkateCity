@@ -1,3 +1,6 @@
+// Copyright © 2026 MAR / SkateCity. All rights reserved.
+// Unauthorized reproduction, distribution, or modification is strictly prohibited.
+
 #if os(iOS)
 // Port of the SkateCity.Draft world-space PBR shader library.
 // Every material uses SceneKit's physicallyBased pipeline with world-space Metal shader

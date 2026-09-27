@@ -2,6 +2,8 @@
 //  Procedural, IK-driven skater + skateboard rig. Every frame the engine hands it a `RigPose`
 //  and the body solves hips/knees/elbows so it crouches, pops, tucks, grabs, balances and bails.
 //  (Placeholder art — see README for swapping in a rigged, mocap-animated USDZ character.)
+// Copyright © 2026 MAR / SkateCity. All rights reserved.
+// Unauthorized reproduction, distribution, or modification is strictly prohibited.
 
 import SceneKit
 import UIKit
